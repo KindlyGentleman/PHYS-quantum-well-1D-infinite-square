@@ -1,4 +1,4 @@
-# Quantum Mechanics Solver
+# TISE : One Dimentional Infinite Square Well Numerical Solver
 This program solves the time-independent Schrodinger equation for an infinite one-dimensional potential well using the Runge-Kutta method of order 4 and the secant method to determine the energy levels. The program also visualizes the wave function and probability density function.
 
 ## Getting Started
